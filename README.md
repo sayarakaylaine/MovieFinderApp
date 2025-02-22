@@ -1,18 +1,20 @@
 # Movie Finder App
 Este é um aplicativo mobile desenvolvido em React Native que permite buscar filmes utilizando a API do The Movie Database (TMDb). O usuário pode pesquisar filmes, visualizar uma lista de resultados e acessar os detalhes de cada filme, incluindo informações como título, sinopse, poster, data de lançamento e avaliação.
 
-Funcionalidades:
+**Funcionalidades:**
+
 * Busca de Filmes: Pesquise filmes por nome e veja uma lista de resultados com seus posters, títulos, datas de lançamento e sinopses.
 * Detalhes do Filme: Ao clicar em um filme da lista, você pode ver mais detalhes, como o título completo, a descrição detalhada, a avaliação do filme e a imagem do poster.
 * Carregamento e Tratamento de Erros: O aplicativo trata erros de conexão e exibe mensagens adequadas caso nenhum filme seja encontrado ou haja problemas na busca.
   
-Tecnologias Utilizadas:
+**Tecnologias Utilizadas:**
+
 * React Native: Framework para desenvolvimento de aplicativos móveis.
 * Axios: Biblioteca para fazer requisições HTTP.
 * React Navigation: Biblioteca para navegação entre telas no React Native.
 * TMDb API: API para obter informações sobre filmes.
   
-Pré-requisitos:
+**Pré-requisitos:**
 
 Antes de rodar o projeto, você precisará instalar as seguintes dependências:
 
